@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shubhammishradyp.github.io/csb-2s2uw/static/css/main.d5dde58c.chunk.css",
+    "main.js": "https://shubhammishradyp.github.io/csb-2s2uw/static/js/main.1f2c4a50.chunk.js",
+    "main.js.map": "https://shubhammishradyp.github.io/csb-2s2uw/static/js/main.1f2c4a50.chunk.js.map",
+    "runtime-main.js": "https://shubhammishradyp.github.io/csb-2s2uw/static/js/runtime-main.fc5a93ec.js",
+    "runtime-main.js.map": "https://shubhammishradyp.github.io/csb-2s2uw/static/js/runtime-main.fc5a93ec.js.map",
+    "static/js/2.9a0e070e.chunk.js": "https://shubhammishradyp.github.io/csb-2s2uw/static/js/2.9a0e070e.chunk.js",
+    "static/js/2.9a0e070e.chunk.js.map": "https://shubhammishradyp.github.io/csb-2s2uw/static/js/2.9a0e070e.chunk.js.map",
+    "index.html": "https://shubhammishradyp.github.io/csb-2s2uw/index.html",
+    "static/css/main.d5dde58c.chunk.css.map": "https://shubhammishradyp.github.io/csb-2s2uw/static/css/main.d5dde58c.chunk.css.map",
+    "static/js/2.9a0e070e.chunk.js.LICENSE.txt": "https://shubhammishradyp.github.io/csb-2s2uw/static/js/2.9a0e070e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc5a93ec.js",
+    "static/js/2.9a0e070e.chunk.js",
+    "static/css/main.d5dde58c.chunk.css",
+    "static/js/main.1f2c4a50.chunk.js"
+  ]
+}
